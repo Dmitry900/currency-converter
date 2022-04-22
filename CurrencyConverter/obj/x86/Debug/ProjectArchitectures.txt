@@ -1,0 +1,1 @@
+D:\programs\Currency Converter\CurrencyConverter\CurrencyConverter.csproj;x86
